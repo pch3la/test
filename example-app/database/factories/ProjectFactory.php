@@ -19,7 +19,7 @@ class ProjectFactory extends Factory
      *
      * @return array
      */
-    public function definition()
+    public function definition(): array
     {
         return [
             'project_name' =>$this->faker->unique()->name,

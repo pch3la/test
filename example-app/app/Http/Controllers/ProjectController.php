@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Models\Project;
-use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
@@ -30,7 +29,6 @@ class ProjectController extends Controller
     public function show(Request $request,Project $project): JsonResponse
     {
         return response()->json($project,Response::HTTP_OK);
-       // dd($project);
     }
 
     /**

@@ -113,6 +113,12 @@
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/symfony/translation-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/symfony/translation" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/swagger-api/swagger-ui" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/zircote/swagger-php" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/darkaonline/l5-swagger" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
